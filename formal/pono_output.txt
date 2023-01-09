@@ -1,0 +1,325 @@
+Found 20 properties to check
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2367.vcd -p 0 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2367
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b0
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2366.vcd -p 1 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2366
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b1
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2363.vcd -p 2 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2363
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b2
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2362.vcd -p 3 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2362
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b3
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2303.vcd -p 4 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2303
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b4
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2302.vcd -p 5 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2302
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b5
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2300.vcd -p 6 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2300
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b6
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:2299.vcd -p 7 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:2299
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b7
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:1819.vcd -p 8 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:1819
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b8
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:987.vcd -p 9 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:987
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b9
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:610.vcd -p 10 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:610
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b10
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:609.vcd -p 11 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:609
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+Checking k-induction base case at bound: 1
+Checking k-induction inductive step at bound: 1
+Checking k-induction base case at bound: 2
+Checking k-induction inductive step at bound: 2
+Checking k-induction base case at bound: 3
+Checking k-induction inductive step at bound: 3
+Checking k-induction base case at bound: 4
+Checking k-induction inductive step at bound: 4
+Checking k-induction base case at bound: 5
+Checking k-induction inductive step at bound: 5
+Checking k-induction base case at bound: 6
+Checking k-induction inductive step at bound: 6
+Checking k-induction base case at bound: 7
+Checking k-induction inductive step at bound: 7
+Checking k-induction base case at bound: 8
+Checking k-induction inductive step at bound: 8
+Checking k-induction base case at bound: 9
+Checking k-induction inductive step at bound: 9
+Checking k-induction base case at bound: 10
+Checking k-induction inductive step at bound: 10
+unknown
+b11
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:470.vcd -p 12 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:470
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b12
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:469.vcd -p 13 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:469
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b13
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:431.vcd -p 14 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:431
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b14
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:430.vcd -p 15 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:430
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b15
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:429.vcd -p 16 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:429
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b16
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:428.vcd -p 17 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:428
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b17
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:364.vcd -p 18 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:364
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b18
+
+
+======================================================================================================
+Running: pono -e ind -v 1 --reset rst -k 10 --vcd trace_rast.sv:363.vcd -p 19 rast.btor2
+======================================================================================================
+Solving property: ./rast.sv:363
+Checking k-induction base case at bound: 0
+Checking k-induction inductive step at bound: 0
+unsat
+b19
+
+
+
+No failed properties. Every property was either proven or could not be violated in 10 steps.

@@ -1,0 +1,86 @@
+Information: Updating design information... (UID-85)
+Warning: Design 'rast' contains 2 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+ 
+****************************************
+Report : design
+Design : rast
+Version: M-2016.12-SP2
+Date   : Tue Nov 29 16:13:08 2022
+****************************************
+
+Design allows ideal nets on clock nets.
+
+Library(s) Used:
+
+    NangateOpenCellLibrary (File: /afs/ir.stanford.edu/users/l/c/lchan528/ee271_project/lib/NangateOpenCellLibrary.db)
+
+Local Link Library:
+
+    {NangateOpenCellLibrary.db}
+
+Flip-Flop Types:
+
+    No flip-flop types specified.
+
+Latch Types:
+
+    No latch types specified.
+
+Operating Conditions:
+
+
+    Operating Condition Name : typical
+    Library : NangateOpenCellLibrary
+    Process :   1.00
+    Temperature :  25.00
+    Voltage :   1.10
+    Interconnect Model : balanced_tree
+
+Wire Loading Model:
+
+    Selected manually by the user.
+
+Name           :   1K_hvratio_1_4
+Location       :   NangateOpenCellLibrary
+Resistance     :   0.00357143
+Capacitance    :   0.1774
+Area           :   0
+Slope          :   5
+Fanout   Length   Points Average Cap Std Deviation
+--------------------------------------------------------------
+     1     1.32
+     2     2.98
+     3     5.11
+     4     7.66
+     5    10.03
+     6    12.23
+     8    19.32
+
+
+
+Wire Loading Model Mode: top.
+
+Timing Ranges:
+
+    No timing ranges specified.
+
+Pin Input Delays:
+
+    None specified.
+
+Pin Output Delays:
+
+    None specified.
+
+Disabled Timing Arcs:
+
+    No arcs disabled.
+
+Required Licenses:
+
+    DesignWare
+
+Design Parameters:
+
+    None specified.
+1
